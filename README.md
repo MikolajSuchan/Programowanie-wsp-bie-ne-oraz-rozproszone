@@ -1,1 +1,1 @@
-# Programowanie-wsp-bie-ne-oraz-rozproszone
+# Programowanie współbieżne oraz rozproszone
